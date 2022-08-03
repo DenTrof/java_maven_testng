@@ -1,0 +1,3 @@
+tests\autopro_login_page\Retry.class
+tests\autopro_login_page\CheckAutoproAccount.class
+tests\main\MainTest.class

@@ -1,0 +1,1 @@
+{"uuid":"526df5dd-7fd1-4739-96dd-2ed9c896f069","name":"tests.autopro_login_page.CheckAutoproAccount.closeBrowser","description":"","start":1658317807517,"stop":1658317811852,"children":["66a702f6-66e6-44c3-901c-09d2fd5d56d7"],"afters":[{"name":"closeBrowser","status":"passed","stage":"finished","description":"","start":1658317807518,"stop":1658317811850}]}

@@ -1,0 +1,10 @@
+pages\login_page\LoginPage.class
+pages\mailinator_page\GetRandomName.class
+common\CommonAction.class
+pages\mailinator_page\MailinatorPage.class
+common\ConfigConstants.class
+pages\mailinator_page\GetRandomEmail.class
+pages\main\MainPage.class
+common\ConfigConstants$TimeOutVariable.class
+common\ConfigConstants$Urls.class
+pages\mailinator_page\GetRandomPassword.class

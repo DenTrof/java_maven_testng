@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [All Test Suite]">
+  <test thread-count="5" verbose="0" name="C:/Users/Den/IdeaProjects/javaTests(failed)">
+    <classes>
+      <class name="tests.autopro_login_page.CheckAutoproAccount">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="CheckEmailOnMailinator"/>
+          <include name="clearCookiAndLocalStorage"/>
+          <include name="SetAutoproAccount"/>
+          <include name="SetRegistrationData"/>
+        </methods>
+      </class> <!-- tests.autopro_login_page.CheckAutoproAccount -->
+    </classes>
+  </test> <!-- C:/Users/Den/IdeaProjects/javaTests(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

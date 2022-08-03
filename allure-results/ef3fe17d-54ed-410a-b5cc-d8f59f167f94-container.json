@@ -1,0 +1,1 @@
+{"uuid":"ef3fe17d-54ed-410a-b5cc-d8f59f167f94","name":"All Test Suite","start":1658318511268,"stop":1658318551386,"children":["7f5115f4-6089-4dc2-ae9f-049df73f072d"],"afters":[{"name":"closeBrowser","status":"passed","stage":"finished","description":"","start":1658318546947,"stop":1658318551385}]}

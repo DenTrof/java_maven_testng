@@ -1,0 +1,1 @@
+{"uuid":"98d87776-a5ef-42bd-a7e3-abf76b6596cd","name":"javaTests","start":1657816751819,"stop":1657816793274,"children":["3f95b6f9-236f-48f9-8227-dedc69149666"],"afters":[{"name":"clearCookiAndLocalStorage","status":"passed","stage":"finished","description":"","start":1657816792946,"stop":1657816793273}]}
